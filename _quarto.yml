@@ -10,7 +10,7 @@ website:
   repo-url: https://github.com/AngellXR/metaversedev
   repo-branch: master
   repo-actions: edit
-  title: Metaverse.dev
+  title: Metaverse.dev (PREVIEW DEV SITE)
   page-navigation: true
   navbar:
     logo-alt: metaversedev
